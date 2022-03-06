@@ -2,7 +2,7 @@
 
 ## Description
 
-professional readme generator using command line argements
+Professional Readme generator using command line arguements
 
 ## Table of Contents
 
