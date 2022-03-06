@@ -1,9 +1,9 @@
 
   
-  # Porfessional Portfolio[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  # Professional README generator[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
-  professional portfolio using command line arguements
+  professional readme generator using command line argements
   
 
   ## Table of Contents
@@ -17,12 +17,12 @@
   ### Installation
 
   Please follow these instructions:
-  
+  none
 
   ### Usage Instructions
 
   Please follow these usage instructions
-  
+  Use command line arguements to input answers
 
   ### Contribution Guidelines
 
@@ -35,7 +35,7 @@
 
   ### Questions
   If you have any questions, you can reach me at
-  avrumie@test.com
+  asafran@gmail.com
 
 
   
