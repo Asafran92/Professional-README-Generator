@@ -43,6 +43,11 @@ const questions = [
     name: "test",
     message: "If you would like to test, please follow these steps",
   },
+  {
+    type: "input",
+    name: "questions",
+    message: "If you have any questions, you can reach me at:",
+  },
 ];
 
 // TODO: Create a function to write README file

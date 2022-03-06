@@ -14,6 +14,7 @@ const readmeGenerator = (answers) => {
   * [Usage Instructions](#Usage-Instructions)
   * [Contribution Guidelines](#Contribution-Guidelines)
   * [Test Instructions](#Test-Instructions)
+  * [Questions](#Questions)
 
 
   ### Installation
@@ -34,6 +35,10 @@ const readmeGenerator = (answers) => {
   ### Test Instructions
   If you would like to test, please follow these steps
   ${answers.test}
+
+  ### Questions
+  If you have any questions, you can reach me at
+  ${answers.questions}
 
 
   `;
