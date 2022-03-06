@@ -10,15 +10,14 @@ const questions = [
     type: "input",
     name: "projectTitle",
     message: "What is the name of your project?",
-    // validate: (projectTitleInput) => {
-    //   if (projectTitleInput) {
-    //     return true;
-    //   } else {
-    //     console.log("You must enter a project name.");
-    //     return false;
-    //   }
-    // },
   },
+  {
+    type: "list",
+    name: "license",
+    message: "Choose a license for your project",
+    choices: ["MIT", "Mozilla", "ISC"],
+  },
+
   {
     type: "input",
     name: "description",
@@ -30,15 +29,24 @@ const questions = [
     message: "Please enter installation instructions",
   },
   {
-    type: "list",
-    name: "license",
-    message: "Choose a license for your project",
-    choices: ["MIT", "Mozilla", "ISC"],
+    type: "input",
+    name: "usage",
+    message: "Please enter usage instructions",
+  },
+  {
+    type: "input",
+    name: "contribution",
+    message: "If you would like to contribute, here's how",
+  },
+  {
+    type: "input",
+    name: "test",
+    message: "If you would like to test, please follow these steps",
   },
 ];
 
 // TODO: Create a function to write README file
-function writeToFile(fileName, data) {}
+//function writeToFile(fileName, data) {}
 
 // TODO: Create a function to initialize app
 function init() {
