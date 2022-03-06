@@ -34,3 +34,7 @@ If you would like to test, please follow these steps
 
 If you have any questions, you can reach me at
 asafran@gmail.com
+
+### Video of Usage
+
+chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/5208b3f5-0a1e-422d-yfdc-fe1cc48436d9
