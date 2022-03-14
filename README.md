@@ -37,4 +37,4 @@ asafran@gmail.com
 
 ### Video of Usage
 
-chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/5208b3f5-0a1e-422d-yfdc-fe1cc48436d9
+https://drive.google.com/file/d/1Npy_y5bQ08QY4ToKC4uCwuMt1ZuZzDpr/view
